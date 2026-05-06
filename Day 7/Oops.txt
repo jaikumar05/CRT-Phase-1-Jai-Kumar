@@ -1,0 +1,30 @@
+Class - blueprint of object.
+Objects - real instance of a class.
+Access specifiers - 3 types - 
+         public - accessible form anywhere
+         private - accessible only inside the class
+         protected - accessible
+Encapsulation - wrapping data + functions together in class and protecting data using access specifiers.
+example - 
+      class A{
+        private:
+           int x
+        public:
+        void setX(int v){
+            x = v;
+        }
+        int getX(){
+            return x;
+        }
+      };
+
+Constructor - A special member function of the class that automatically get executed when the object of the class is created.
+has the same name as the Class.
+there are 3 types of Constructor
+1. Default Constructor
+2. Parameter Constructor
+3. Copy Constructor
+
+Function Overloading - it means defining multiple functions with the same name but different parameter.
+The compiler decide which function to call based on the argument called.
+
