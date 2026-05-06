@@ -1,0 +1,5 @@
+// Types of functions  - 
+ 1. No Arguments, No return Type
+ 2. No Arguments, with return Type
+ 3. With Argument, No return Type
+ 4. With Argument, with return Type5

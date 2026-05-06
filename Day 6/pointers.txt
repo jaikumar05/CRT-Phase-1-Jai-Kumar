@@ -1,0 +1,2 @@
+Pointers are those variables who stores the address of other variables
+
