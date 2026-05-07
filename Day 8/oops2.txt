@@ -1,0 +1,9 @@
+Copy Constructor - a type of Constructor that initializes a new object using an already existing object of the same class
+                    instead of setting new values from scratch it copies the data from another object
+
+                    Q.Create a single parent class of collage extend with students and teachers class,
+                        collage- name and age
+                        student -rollno, mobile no, mailid, batch, course
+                        teacher - name,age, department, subject, salary
+
+                        and call a virtual function to show their classes 
