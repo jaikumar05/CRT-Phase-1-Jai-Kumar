@@ -1,0 +1,19 @@
+charachter array is data structure can store 256 individual elements
+string is a class 
+ syntax - 
+ string name = "JECRC";
+
+ methods of string - 
+ length() - string size
+ append () - adding elements
+ empty() - ;ets you know if the array is empty or not
+ concate() - combining two arrays
+ push_back() - adds a single character to the very end of the string.
+ pop_back() - removes the last single character from the string
+ find() - serach the string for a specific substring or character 
+ swap() - swap the entire contents of your string with another string
+ substr() - Extracts and return a portion of the string takes two argument starting index and the lenght of sub string
+ getline() - for getting input of the whole line
+
+ char line = fixed size (256 unique elements), it is a data structure, single quotes
+

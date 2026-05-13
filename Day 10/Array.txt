@@ -1,0 +1,10 @@
+Array - An array is a collection of items of the same variable type that are stored at contiguous memory locations.
+        // This array will store integer type element
+        int arr[5];      
+
+        // This array will store char type element
+        char arr[10];   
+
+        // This array will store float type element
+        float arr[20];
+
