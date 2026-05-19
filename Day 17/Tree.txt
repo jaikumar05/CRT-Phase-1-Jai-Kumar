@@ -1,0 +1,10 @@
+//Complete Binary tree - nodes are full at all level except last level
+// Degenerated tree - Parent has only single type 
+
+
+Treversal - 
+
+BFS - Breath first search
+level order traversal
+DFS - depth first search
+in order, pre order, post order
